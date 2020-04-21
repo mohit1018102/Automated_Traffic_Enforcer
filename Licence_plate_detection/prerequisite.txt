@@ -1,0 +1,4 @@
+lapi.weights
+darknet-yolov3.cfg
+classes.names
+https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector
